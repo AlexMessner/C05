@@ -2,6 +2,9 @@ package amessner;
 
 import org.junit.*;
 import java.awt.*;
+/*
+*git@github.com:AlexMessner/C05.git
+*/
 
 public class AutoTest {
 	Auto a;
